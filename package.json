@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m-dary-nur/js-chrome-search.git"
+    "url": "git+https://github.com/m-dary-nur/js-chrome-ui-search.git"
   },
   "keywords": [
     "ui-search"
@@ -16,7 +16,7 @@
   "author": "m.dary.nur",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/m-dary-nur/js-chrome-search/issues"
+    "url": "https://github.com/m-dary-nur/js-chrome-ui-search/issues"
   },
-  "homepage": "https://github.com/m-dary-nur/js-chrome-search#readme"
+  "homepage": "https://github.com/m-dary-nur/js-chrome-ui-search#readme"
 }
