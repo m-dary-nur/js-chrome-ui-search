@@ -1,0 +1,22 @@
+{
+  "name": "js-chrome-search",
+  "version": "1.0.0",
+  "description": "library helper ui for search blocked text like google chrome search",
+  "main": "libsearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-dary-nur/js-chrome-search.git"
+  },
+  "keywords": [
+    "ui-search"
+  ],
+  "author": "m.dary.nur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-dary-nur/js-chrome-search/issues"
+  },
+  "homepage": "https://github.com/m-dary-nur/js-chrome-search#readme"
+}
